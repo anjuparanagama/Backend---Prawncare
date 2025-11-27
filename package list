@@ -1,0 +1,2 @@
+npm install @supabase/supabase-js bcrypt bcryptjs body-parser cors dotenv express jsonwebtoken mysql2 nodemailer pdfkit
+npm install --save-dev nodemon
